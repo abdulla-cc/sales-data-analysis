@@ -17,7 +17,7 @@ across regions, categories, and time periods.
 - Sales peaked around 2020
 
 ## Dashboard
-![Dashboard](dashboard/dashboard.png)
+![Dashboard]("C:\Users\Abdul\OneDrive\Desktop\PEOJECTS\sales-data-analysis\Dashboard\dashboard.png")
 
 ## Status
 ✅ Completed
