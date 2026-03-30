@@ -16,8 +16,6 @@ across regions, categories, and time periods.
 - Phones and Chairs are the top selling sub-categories
 - Sales peaked around 2020
 
-## Dashboard
-![Dashboard]("C:\Users\Abdul\OneDrive\Desktop\PEOJECTS\sales-data-analysis\Dashboard\dashboard.png")
 
 ## Status
 ✅ Completed
